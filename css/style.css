@@ -35,7 +35,7 @@ body {
 
 .inner {
     max-width: var(--inner-width);
-    background-color: rgba(255, 0, 0, 0.1);
+    /* background-color: rgba(255, 0, 0, 0.1); */
     margin: 0 auto;
     padding: 0 1em;
 }
@@ -50,7 +50,7 @@ body {
 /* header */
 header {
     position: fixed;
-    background-color: rgba(0, 0, 255, 0.2);
+    /* background-color: rgba(0, 0, 255, 0.2); */
     width: 100%;
     /* padding: 18px 0 0; */
     z-index: 10000;
